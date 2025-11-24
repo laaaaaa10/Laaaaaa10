@@ -13,7 +13,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=Laaaaaa10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?quote=I%20live%20in%20a%20world%20where%20peoples%20are%20happy%20to%20see%20time%20fly%20by.&type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+<!--quote=I%20live%20in%20a%20world%20where%20peoples%20are%20happy%20to%20see%20time%20fly%20by.&-->
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Laaaaaa10&limit=5&theme=dark&combine_all_yearly_contributions=true)
