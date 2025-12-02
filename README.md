@@ -15,10 +15,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 <!--quote=I%20live%20in%20a%20world%20where%20peoples%20are%20happy%20to%20see%20time%20fly%20by.&-->
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Laaaaaa10&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Laaaaaa10&icon=0&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
