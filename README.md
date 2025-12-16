@@ -11,7 +11,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=laaaaaa10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 <!--quote=I%20live%20in%20a%20world%20where%20peoples%20are%20happy%20to%20see%20time%20fly%20by.&-->
